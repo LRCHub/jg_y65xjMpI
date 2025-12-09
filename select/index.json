@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Qunka!",
+  "base_artist": "板東まりも(CV:花澤香菜)",
+  "createdAt": "2025-12-09T09:35:13.965689Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Qunka!",
+      "artist": "板東まりも(CV:花澤香菜)",
+      "has_synced": true,
+      "path": "select/01_Qunka!_板東まりも(CV_花澤香菜).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Qunka!",
+      "artist": "板東まりも(CV:花澤香菜)",
+      "has_synced": false,
+      "path": "select/pl_01_Qunka!_板東まりも(CV_花澤香菜).txt"
+    }
+  ]
+}
